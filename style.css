@@ -168,3 +168,24 @@ h3{
     border-top-right-radius: 10px;
 }
 /* update partn end */
+/* footer part start */
+#footer{
+    background-color: rgba(12, 10, 10, 0.938);
+    height: 200px;
+    width: 100;
+}
+.footer_head{
+    text-align: center;
+    padding-top: 40px;
+}
+.footer_head h2{
+    font-size: 35px;
+    font-weight: 800;
+    color: orangered;
+}
+.footer_head p{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+}
+/* footer part end */
