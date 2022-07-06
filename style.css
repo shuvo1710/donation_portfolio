@@ -86,3 +86,85 @@ h3{
     margin-left: 350px;
 }
 /* about part end */
+/* donate part start */
+#donate_plan{
+    padding-bottom: 100px;
+}
+.plan_text{
+    text-align: center;
+}
+
+.plan_text h2{
+    font-size: 35px;
+    font-weight: 800;
+}
+.plan_text p{
+    text-align: center;
+    padding: 0 350px;
+}
+.plan_head{
+    display: flex;
+    gap: 20px;
+    padding: 0 60px;
+}
+.plan_item{
+    width: 32%;
+    padding: 30px 10px;
+}  
+.color_change01{
+    background-color: aquamarine;
+}
+.color_change02{
+    background-color: rgb(238, 219, 180);
+}
+.color_change03{
+    background-color: rgb(100, 136, 190);
+}
+/* donate part end */
+/* update partn start */
+#update{
+    padding-bottom: 100px;
+}
+.update_head{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.update_head h2{
+    font-size: 35px;
+    font-weight: 800;
+}
+.update_head p{
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0 290px;
+}
+.update_bottom{
+    background-color: cornsilk;
+    height: 200px ;
+    width: 600px;
+    margin: 0 380px;
+}
+.update_item{
+    text-align: center;
+   padding-top: 90px;
+   color: #fff;
+   font-family: 'Roboto Slab', serif;
+   border-radius: 10px;
+  
+}
+.item_1{
+    background-color: rgb(128, 128, 128, 0.5);
+    padding: 10px 20px ;
+    border: 0;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    
+}
+.item_2{
+    background-color: orangered;
+    padding: 10px 20px ;
+    border: 0;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+/* update partn end */
